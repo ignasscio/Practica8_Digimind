@@ -5,6 +5,7 @@
     <string name="reminder_name">What do you want to remember?</string>
     <string name="when">When do you wanna do it?</string>
     <string name="time">At what time?</string>
+    <string name="tapToSetTime">Tap to set time</string>
     <string name="done">Done</string>
     <string name="sun">Sunday</string>
     <string name="mon">Monday</string>
